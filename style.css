@@ -5,8 +5,7 @@
 }
 
 .banner{
-    width: 100%;
-    height: 100vh;
+    width: 100;
     background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75),url(well.png));
     background-size: cover;
     background-position: center;
@@ -56,12 +55,9 @@
     text-align: center;
     color: #000;
 }
-.content h1{
-    font-size: 70px;
-    margin-top: 80px;
-}
-.contentp{
-    margin: 20px auto;
-    font-weight: 100;
-    line-height: 25px;
+.home-category-wrapper{
+    padding: 3.125rem;
+  background: #fff;
+  border-bottom: 0 solid silver;margin: 0;  word-wrap: break-word;  box-sizing: border-box;
+  border: 0;
 }
